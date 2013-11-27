@@ -1,0 +1,5 @@
+Steps !
+
+1) ma github web par repostry banao ga 
+2) smartgit kholo ga aur clone par click karo ga 
+3) wo desktop par folder create karay ga readme ka sirf us ma kuch dalo ga aur phr commit and push
